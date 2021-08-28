@@ -13,6 +13,7 @@ If you want to see the single images for each season you have to go into the img
 - [Pandas](https://pandas.pydata.org/)
 - [Geopandas](https://geopandas.org/)
 - [Matplotlib](https://matplotlib.org/)
+- [Jupyter Notebook](https://jupyter.org/)
 
 ## Data source: https://www.transfermarkt.de
 
